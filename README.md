@@ -1,4 +1,4 @@
-### Hi, i'm Igor Lins 
+### Hi, i'm Igor Lins    <img src="https://camo.githubusercontent.com/14311011eb12c8691cea2921c60f46f6d811d05d919ba6c1e6a9055b05737f52/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5158685372364e4452344635743639474c382f67697068792e676966" height="80px" data-canonical-src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 • Analysis and systems development at UNOESTE.
@@ -9,6 +9,4 @@
 
 • I like listening to music, cooking and practice sports.
 
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" width="150" height="100">
 
