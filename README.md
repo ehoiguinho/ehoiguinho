@@ -5,8 +5,6 @@
 
 • Brazilian, Front-end developer always eager to learn and explore.
 
-• Javascript, C, C#.
-
 • I like listening to music, cooking and practice sports.
 
 
