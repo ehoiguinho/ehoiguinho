@@ -2,7 +2,7 @@
 
 
 
-<div style="display: flex; gap: 15px; align-items: center;">
+<div align="center">
 
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
